@@ -1,0 +1,9 @@
+.logo {
+  width: 40px;
+  margin-right: 8px;
+}
+
+.sidebar {
+  height: calc(100vh - 50px);
+  width: 280px;
+}
